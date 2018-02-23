@@ -1,6 +1,6 @@
 # hello-world
 
-Dit is mijn test project (s)
+Dit is mijn test project (s).
 
 
 oei
