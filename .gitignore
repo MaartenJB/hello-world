@@ -1,0 +1,8 @@
+*.exe
+*.res
+*.compiled
+*.bak
+*.ppu
+*.ppl
+*.o
+*.or
