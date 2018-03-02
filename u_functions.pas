@@ -9,5 +9,8 @@ uses
 
 implementation
 
+uses abc;
+
+
 end.
 
