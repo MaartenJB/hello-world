@@ -31,7 +31,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  ShowMessage('Hello World');
+  ShowMessage('Hello World!');
 
   ShowMessage('Ok');
 
