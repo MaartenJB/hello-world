@@ -9,14 +9,5 @@ uses
 
 implementation
 
-// lokale aanpassing
-
-
-uses abc;
-
-// dit is een test
-// Testing....................
-// Test 2
-
 end.
 
