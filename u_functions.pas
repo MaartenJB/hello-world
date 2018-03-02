@@ -10,6 +10,7 @@ uses
 implementation
 
 // Lokale aanpassing
+// remote aanpassing
 
 end.
 
